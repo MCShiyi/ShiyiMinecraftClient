@@ -1,0 +1,71 @@
+{
+  "settings": {
+    "crashAssistance": false,
+    "keepLauncherOpen": true,
+    "showGameLog": true,
+    "locale": "zh-cn",
+    "showMenu": true,
+    "enableAnalytics": true
+  },
+  "launcherVersion": {
+    "name": "2.0.934",
+    "format": 20,
+    "profilesFormat": 2
+  },
+  "clientToken": "1ad98d47-4e5f-46b8-81f4-c05e29ba7791",
+  "profiles": {
+    "b89745304072d1c540606d99fad13e9e": {
+      "type": "latest-release",
+      "lastUsed": "2017-08-07T01:47:25.017Z"
+    },
+    "9bd3350bb4b3d1eec173cf71caf0d1b3": {
+      "type": "latest-snapshot",
+      "lastUsed": "1970-01-01T00:00:00.000Z"
+    },
+    "1.11.2": {
+      "name": "1.11.2",
+      "type": "custom",
+      "created": "1970-01-01T00:00:00.002Z",
+      "lastUsed": "2017-06-16T11:55:47.518Z",
+      "lastVersionId": "latest-release",
+      "resolution": {
+        "width": 1280,
+        "height": 720
+      },
+      "gameDir": "C:\\Users\\DLL_XiaoLin\\desktop\\1.11.2"
+    },
+    "DLL_XiaoLin": {
+      "name": "DLL_XiaoLin",
+      "type": "custom",
+      "created": "1970-01-01T00:00:00.002Z",
+      "lastUsed": "1970-01-01T00:00:00.002Z",
+      "lastVersionId": "latest-release"
+    },
+    "forge": {
+      "name": "forge",
+      "lastVersionId": "1.12.1-forge1.12.1-14.22.0.2446"
+    },
+    "OptiFine": {
+      "name": "OptiFine",
+      "lastVersionId": "1.12.1-OptiFine_HD_U_C5"
+    }
+  },
+  "analyticsFailcount": 0,
+  "selectedUser": {
+    "account": "8c68d2e556224229882b1aabc06db92a",
+    "profile": "1426aeb97e84467c9664e2d16d27522d"
+  },
+  "analyticsToken": "1c17aa53911975ea13354912abee9f44",
+  "authenticationDatabase": {
+    "8c68d2e556224229882b1aabc06db92a": {
+      "accessToken": "83534a03ba86424a9a8ce7bbdc3ee789",
+      "username": "747537130@qq.com",
+      "profiles": {
+        "1426aeb97e84467c9664e2d16d27522d": {
+          "displayName": "Flan_Akatsuki"
+        }
+      }
+    }
+  },
+  "selectedProfile": "OptiFine"
+}

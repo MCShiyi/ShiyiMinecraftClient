@@ -1,0 +1,34 @@
+{
+  "profiles": {
+    "1.11.2": {
+      "name": "1.11.2",
+      "gameDir": "C:\\Users\\DLL_XiaoLin\\desktop\\1.11.2",
+      "resolution": {
+        "width": 1280,
+        "height": 720
+      },
+      "useHopperCrashService": false,
+      "launcherVisibilityOnGameClose": "keep the launcher open"
+    },
+    "DLL_XiaoLin": {
+      "name": "DLL_XiaoLin"
+    }
+  },
+  "selectedProfile": "1.11.2",
+  "clientToken": "1ad98d47-4e5f-46b8-81f4-c05e29ba7791",
+  "authenticationDatabase": {
+    "1426aeb97e84467c9664e2d16d27522d": {
+      "username": "747537130@qq.com",
+      "accessToken": "ce93b957d449487fa51d69526dc3ad9c",
+      "userid": "8c68d2e556224229882b1aabc06db92a",
+      "uuid": "1426aeb9-7e84-467c-9664-e2d16d27522d",
+      "displayName": "Flan_Akatsuki"
+    }
+  },
+  "selectedUser": "1426aeb97e84467c9664e2d16d27522d",
+  "launcherVersion": {
+    "name": "1.6.70",
+    "format": 18,
+    "profilesFormat": 1
+  }
+}
